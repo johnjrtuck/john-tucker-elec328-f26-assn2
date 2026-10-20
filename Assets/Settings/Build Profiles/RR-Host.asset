@@ -29,8 +29,8 @@ MonoBehaviour:
     m_path: Assets/Samples/Reality Roost SDK/0.3.8/Required Boot Scenes/RR_Calib.unity
     m_guid: a8830dedd9d12e74eaa329c5c4a1d7c7
   - m_enabled: 1
-    m_path: Assets/so far.unity
-    m_guid: 06248e4b97911ed45856164026e73ce9
+    m_path: Assets/Enchanted_Flashlight.unity
+    m_guid: 1a1471a49901c2543869d07751d4d6d6
   m_HasScriptingDefines: 1
   m_ScriptingDefines:
   - RR_HOST
@@ -189,6 +189,8 @@ MonoBehaviour:
     - line: '|   bundleVersion: 0.0.1'
     - line: '|   preloadedAssets:'
     - line: '|   - {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}'
+    - line: '|   - {fileID: -1241139569784208265, guid: 351f0ef9a0df8ce4a8bc39380acecc73, type: 2}'
+    - line: '|   - {fileID: 1511702515377996362, guid: 2bb2b817a51606844a33cda39a111265, type: 2}'
     - line: '|   metroInputSource: 0'
     - line: '|   wsaTransparentSwapchain: 0'
     - line: '|   xboxOneDisableKinectGpuReservation: 1'

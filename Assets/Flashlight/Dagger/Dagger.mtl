@@ -1,0 +1,7 @@
+newmtl M_Dagger_Blade
+Kd 1 1 1
+map_Kd T_DaggerBlade.png
+newmtl M_Dagger_Guard
+Kd 0.55 0.42 0.2
+newmtl M_Dagger_Grip
+Kd 0.12 0.07 0.04

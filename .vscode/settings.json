@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "john-tucker-elec328-f26-assn1.slnx"
+    "dotnet.defaultSolution": "john-tucker-enchanted-flashlight.slnx"
 }

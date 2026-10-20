@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Assn 2 extras
+/JRT15_Build_Flash/
+/RootMotion/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+/JRT15_Build*/
+/*.zip
